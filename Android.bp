@@ -162,6 +162,8 @@ android_library {
         "iconloader_base",
         "view_capture",
         "libGoogleFeed",
+        "colorkt",
+        "themelib",
     ],
     manifest: "AndroidManifest-common.xml",
     sdk_version: "current",
